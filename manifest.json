@@ -1,0 +1,7 @@
+{
+  "name": "healthy",
+  "short_name": "healthy",
+  "description": "this is healthy application",
+  "start_url": "/",
+  "display": "standalone"
+}
