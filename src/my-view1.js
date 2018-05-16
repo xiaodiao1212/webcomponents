@@ -50,7 +50,7 @@ class MyView1 extends PolymerElement {
         // Resolve warning about scroll performance
         // See https://developers.google.com/web/updates/2016/06/passive-event-listeners
         setPassiveTouchGestures(true);
-        this.message = 'Hello World! I\'m a Polymer element :)';
+        this.message = 'Hello World! 我是小雕';
     }
 
     ready(){
