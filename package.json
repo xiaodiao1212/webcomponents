@@ -2,6 +2,7 @@
   "name": "healthy",
   "description": "this is healthy application",
   "dependencies": {
+    "@polymer/paper-checkbox": "^3.0.0-pre.19",
     "@polymer/polymer": "^3.0.0"
   },
   "devDependencies": {
